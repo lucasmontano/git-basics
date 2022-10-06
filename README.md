@@ -1,2 +1,2 @@
 ### Projeto Git Basic
-Repositorio que criamos para apender o basico de GIT.
+Repositorio que criamos para apender o básico de GIT.
